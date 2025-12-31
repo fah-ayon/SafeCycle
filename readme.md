@@ -11,10 +11,17 @@ The system integrates **anti-theft detection, crash monitoring, rear-collision w
 ## System Diagrams
 
 ### Circuit Diagram
-![Circuit Diagram](https://i.ibb.co.com/tPQHh9nn/circuit-diagram.png)
+
+<p align="center">
+  <img src="https://i.ibb.co.com/tPQHh9nn/circuit-diagram.png" width="600">
+</p>
+
 
 ### Workflow Diagram
-![Workflow Diagram](https://i.ibb.co.com/Wvm3sRqc/workflow-diagrama-removebg-preview.png)
+
+<p align="center">
+  <img src="https://i.ibb.co.com/Wvm3sRqc/workflow-diagrama-removebg-preview.png" width="500">
+</p>
 
 ---
 
@@ -99,10 +106,13 @@ The device operates in two main modes:
 A dedicated Android app was developed using **MIT App Inventor**.  
 When connected with the **HC-05 Bluetooth module**, users can control the entire system.
 
-- The **APK** and **.AIA source files** are located in the `/app` folder of this repository.
+- The **APK** and **.AIA source files** are located in the `/app/` folder of this repository.
 
 #### App Interface Screenshot
-![App Interface](https://i.ibb.co.com/1tj2gpn8/Screenshot-2025-12-31-222322-Photoroom.png)
+
+<p align="center">
+  <img src="https://i.ibb.co.com/1tj2gpn8/Screenshot-2025-12-31-222322-Photoroom.png" width="350">
+</p>
 
 ---
 
@@ -114,7 +124,11 @@ Google Play link:
 https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&pcampaignid=web_share
 
 #### Serial Terminal Interface During Operation
-![Terminal Screenshot](https://i.ibb.co.com/bRHG1vPK/Gemini-Generated-Image-453n29453n29453n.png)
+
+<p align="center">
+  <img src="https://i.ibb.co.com/bRHG1vPK/Gemini-Generated-Image-453n29453n29453n.png" width="350">
+</p>
+
 
 ---
 
